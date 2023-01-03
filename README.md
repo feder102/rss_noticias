@@ -25,11 +25,13 @@ Los pull request son siempres bienvenidos. Abierto a mejoras!
 ## Aportes para el proyecto
 
 Si queres colaborar con lo minimo te dejo mis billeteras
-Binance Smart Chain BUSD (BEP20) ??
-- 0x883e6c8d5dbbe8fde3c232b3282028dc010d1bc2
-Lemon Tag (ARG) ??
-- $fcastiglione
-CVU (ARG)
-- 0000168300000004143358
+Binance Smart Chain BUSD (BEP20)
+* 0x883e6c8d5dbbe8fde3c232b3282028dc010d1bc2
 
-# GRACIAS ?? 
+Lemon Tag (ARG)
+* $fcastiglione
+
+CVU (ARG)
+* 0000168300000004143358
+
+# GRACIAS
